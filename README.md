@@ -1,3 +1,10 @@
+In this project i use:
+
+- create-react-app
+- Reactstrap
+- Formik and Yup (to validate data from the form)
+- SweetAlert (to make the alert of the succed register)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
